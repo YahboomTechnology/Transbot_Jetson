@@ -1,4 +1,4 @@
-# Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt 3D mapping for Nvidia Jetson NANO 4GB B01
+# Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt simulation 3D mapping navigation for Nvidia Jetson NANO 4GB B01
 ![](https://github.com/YahboomTechnology/Transbot/blob/main/Yahboom_Transbot_Robot.jpg)
 
 # Introduction
