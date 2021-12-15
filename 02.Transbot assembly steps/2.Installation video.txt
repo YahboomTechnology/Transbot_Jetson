@@ -1,0 +1,23 @@
+Part1: HD camera installation video:
+https://www.youtube.com/watch?v=yGBzASJQP_g&t=55s
+
+Part2: Depth camera installation video
+https://www.youtube.com/watch?v=u2EtxDZnGhk&t=47s
+
+Part3: Jetson NANO board installation video
+https://www.youtube.com/watch?v=a8dWGY1c-jk&t=2s
+
+Part4: Lidar installation video
+https://www.youtube.com/watch?v=VgFr7G1hKzI&t=9s
+
+Part5: Robotic arm installation video
+https://www.youtube.com/watch?v=O1VI-tuNRms
+
+Part6: Bttery installation video
+https://www.youtube.com/watch?v=iEZ2xGm2f2Y&t=2s
+
+Part7: 7 inch screen installation video
+https://www.youtube.com/watch?v=Xe0iScv5Xn8&t=18s
+
+Part8: Transbot quick release buckle
+https://www.youtube.com/watch?v=X4xNWoYfqhY
