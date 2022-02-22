@@ -1,3 +1,0 @@
-All the codes needed by the Transbot robot have been included in the mirror file we provided. If you need to download the program separately, please enter our tutorial website.
-Click [Download]---[Code] to download the codes.
-Link: http://www.yahboom.net/study/Transbot-jetson_nano
